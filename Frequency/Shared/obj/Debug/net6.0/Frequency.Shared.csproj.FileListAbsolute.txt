@@ -1,0 +1,12 @@
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\bin\Debug\net6.0\Frequency.Shared.deps.json
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\bin\Debug\net6.0\Frequency.Shared.dll
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\bin\Debug\net6.0\Frequency.Shared.pdb
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.csproj.AssemblyReference.cache
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.AssemblyInfoInputs.cache
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.AssemblyInfo.cs
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.csproj.CoreCompileInputs.cache
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.dll
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\refint\Frequency.Shared.dll
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\Frequency.Shared.pdb
+C:\Users\EOHCorneJo\source\repos\New folder (5)\Frequency\Frequency\Shared\obj\Debug\net6.0\ref\Frequency.Shared.dll
